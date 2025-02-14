@@ -1,0 +1,2 @@
+class LaddingpageController < ApplicationController
+end
